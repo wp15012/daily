@@ -5,12 +5,16 @@
 
 ### Keep（今後も続けること）
 
-- 今日学んだ略語、CSS(cascading Style Sheet) 
+- 今日学んだ略語、CSS(cascading Style Sheet)を覚える
 
 ### Problem(問題なので、やめることor疑問に思うこと)
 
 - 今日は、16進を使っての色の出し方を学びましたが、教科書には｛color: "017acd｝"とありました。
 acdは何の略ですか？
+
+- linkにjumpするときは、a hrefの aが必要でしたが、style.cssをhtmlで作成したものに読み込むときは、link rel(release)"style sheet"の
+後、hrefの前にaは入らないんですか？　aは(アンカー?)としてどんな働きがあるんですか？ そこまで追求せずに進んだ方がいいのかも知れませんが、
+少し気になります。
 
 ### Try(今後試してみたいこと)
 
